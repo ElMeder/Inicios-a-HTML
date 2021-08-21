@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    border: 0;
+}
+
+.cubo_1{
+    width: 50%;
+    height: 50%;
+    background: royalblue;
+    position: absolute; 
+    left: 0; 
+    top: 0;
+}
+
+.titulo_1{
+    color: turquoise; 
+    position: absolute; 
+    left: 45%; 
+    font-size: 8mm;
+    font-family: Lobster,Arial, Helvetica, sans-serif;
+}
+
+.hielo{
+    height: 250px; 
+    width: 350px; 
+    position: absolute; 
+    top: 25%; 
+    left: 30%;
+}
+
+.cubo_2{
+    width: 50%; 
+    height: 50%; 
+    background-color: rgb(226, 102, 102); 
+    position: absolute; 
+    left: 50%; 
+    bottom: 0;
+}
+
+.titulo_2{
+    color: red; 
+    position: absolute; 
+    left: 45%; 
+    font-size: 8mm;
+    font-family: Lobster,Arial, Helvetica, sans-serif;
+}
+
+.tomate{
+    height: 250px; 
+    width: 350px; 
+    position: absolute; 
+    top: 25%; 
+    left: 32%;
+}
+
+.cubo_3{
+    width: 50%; 
+    height: 50%; 
+    background: rgb(144, 144, 45); 
+    position: absolute; 
+    left: 50%; 
+    top: 0;
+}
+
+.titulo_3{
+    color: yellow; 
+    position: absolute; 
+    left: 50%; 
+    font-size: 8mm;
+    font-family: Lobster,Arial, Helvetica, sans-serif;
+}
+
+.sol{
+    height: 250px; 
+    width: 350px; 
+    position: absolute; 
+    top:  25%; 
+    left: 35%;
+}
+
+.cubo_4{
+    width: 50%; 
+    height: 50%; 
+    background: rgb(41, 105, 41); 
+    position: absolute; 
+    top: 50%; 
+    left: 0;
+}
+
+.titulo_4{
+    color: greenyellow; 
+    position: absolute; 
+    left: 45%; 
+    font-size: 8mm;
+    font-family: Lobster,Arial, Helvetica, sans-serif;
+}
+
+.sandia{
+    height: 250px; 
+    width: 375px; 
+    position: absolute; 
+    top: 25%; 
+    left: 30%;
+}
